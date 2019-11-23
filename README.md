@@ -49,6 +49,7 @@ Pertama impot database dengan nama db_buku
 kemudian pindahkan folder 8 ke folder web server anda
 jalankan di web brouwser dengan mengetik http://localhost/dw-1/8/
 jalankan semua fungsinya
+untuk bagian detail buku. klik nama buku akan muncul detail bukunya
 
 # Wasalamualaikum Wr.Wb
 

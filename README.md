@@ -35,6 +35,9 @@ namun jika tanggal kelipatan 5 maka jumlah bonus telur akan dikalikan
 jika bonus telur genap akan dikalikan 10, namun jika bonus telur ganjil akan dikalikan 5
 
 # NO 7
+function memiliki sebuah parameter berupa array yang berisi array yang berisi abjad, yang mempunyai tugas untuk mengurutkan array terpendek ke terpanjang, dan juga mengurutkan abjad di dalamnya dari a ke z
+saya menggunakan metode bubble sort di awal untuk mengurutkan data berdasarkan jumlah emelent pada masing masing array
+kemudian saya menggunakan fungsi bawaan dari PHP yaitu sort() untuk mengurutkan data yang ada didalam array
 
 # NO 8
 Pertama impot database dengan nama db_buku

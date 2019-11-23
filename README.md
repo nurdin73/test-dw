@@ -1,5 +1,6 @@
 # test-dw
 jawaban soal tes pertama bootcamp dumbways
+Saya menggunakan software sublime untuk menulis code dan framework bootstrap pada tampilan no 8. saya menggunakan XAMPP yang didalamnya sudah include PHP7.
 
 # NO 1
 menghitung total element pada array dengan panjang array adalah 5, hitung 4 isi array angka tersebut kecuali index array Serta mencari nilai terkecil dan terbesar dari hasil penjumlahan emelent pada array tadi

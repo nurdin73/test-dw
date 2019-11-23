@@ -23,6 +23,8 @@ kemudian saya looping sekali lagi menggunakan for untuk mendapatkan hasil string
 
 # NO 4
 function sederhana untuk menghitung potongan harga, biaya yang harus dibayar, dan total kembalian pada sistem Voucher DumbWays Mall
+kemungkinan soal nya salah karena jika kita mendapatkan diskon 40% dari jumlah uang 30000 bukan mendapatkan diskon 15000
+karena jika hasilnya 15000 bukan hasil dari diskon 40% nya
 disini saya membuat 3 fungsi yaitu dumbwaysasik, dumbwaysmantap dan hitungvoucher dimana jika kita menggunakan voucher dumbwaysasik maka akan mendapat potongan harga 40% jika pembelian minimal 20000. dan ketika kita menggunakan voucher dumbwaysmantap mendapatkan potongan harga 30% dengan minimum pembelian 50000. dan untuk fungsi hitungvoucher kita memasukan dan jumlah uang dimana ketika kita menggunakan voucher dan sudah lulus validasi akan otomatis muncul jumlah yang harus dibayar dan diskonnya
 
 # NO 5

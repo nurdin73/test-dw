@@ -1,4 +1,6 @@
-# test-dw
+# Assalamualaikum Wr.Wb
+
+# Tes bootcamp Dumbways batch 13 kloter 6
 jawaban soal tes pertama bootcamp dumbways
 Saya menggunakan software sublime untuk menulis code dan framework bootstrap pada tampilan no 8. saya menggunakan XAMPP yang didalamnya sudah include PHP7.
 
@@ -46,6 +48,7 @@ kemudian pindahkan folder 8 ke folder web server anda
 jalankan di web brouwser dengan mengetik http://localhost/dw-1/8/
 jalankan semua fungsinya
 
+# Wasalamualaikum Wr.Wb
 
 
 

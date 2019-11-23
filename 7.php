@@ -20,6 +20,9 @@ function sort_array($data)
             }
 		}
 	}
-	return $data;
+	foreach ($data as $key => $value) {
+		sort($value);
+		echo json_encode($value, JSON_PRETTY_PRINT);
+	}
 }
-echo json_encode(sort_array($datalain), JSON_PRETTY_PRINT);
+sort_array($datalain);
